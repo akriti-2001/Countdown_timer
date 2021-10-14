@@ -1,0 +1,13 @@
+h1{
+    font-size: 4rem;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.ac span{
+    font-size: 2rem;
+}
+
+.big-text{
+    font-size: 3rem;
+}
