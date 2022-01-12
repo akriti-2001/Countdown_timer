@@ -1,4 +1,4 @@
-var deadline = new Date("jan 01, 2023 15:37:25").getTime();
+var deadline = new Date("jan 01, 2022 15:37:25").getTime();
 
 var x = setInterval(function() {
 
